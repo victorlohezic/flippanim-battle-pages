@@ -13,7 +13,7 @@ export const opponentStats = {
   level: 3,
   name: 'Bouboule de feu',
   maxHealth: 150,
-  img: '/assets/bouboule_de_feu.gif',
+  img: 'https://raw.githubusercontent.com/victorlohezic/flippanim-battle-pages/main/public/assets/bouboule_de_feu.gif',
 
   magic: 50,
   attack: 32,
