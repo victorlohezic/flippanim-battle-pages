@@ -85,7 +85,7 @@ export const Battle = ({ onGameEnd }) => {
           <div className={styles.hudChild}>
             <BattleAnnouncer
               message={
-                announcerMessage || `Que ${playerStats.name} choisit de faire ?`
+                announcerMessage || `Qu'est-ce que ${playerStats.name} choisit de faire ?`
               }
             />
           </div>
