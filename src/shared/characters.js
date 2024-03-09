@@ -1,7 +1,7 @@
 export var playerStats = {
   level: 1,
   maxHealth: 177,
-  name: 'Player',
+  name: 'Héros',
   img: '/assets/bouboule.gif',
 
   magic: 32,
