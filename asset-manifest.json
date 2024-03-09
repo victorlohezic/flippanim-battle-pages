@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flippanim-battle-pages/static/css/main.6d5d4115.chunk.css",
+    "main.js": "/flippanim-battle-pages/static/js/main.937a81ad.chunk.js",
+    "main.js.map": "/flippanim-battle-pages/static/js/main.937a81ad.chunk.js.map",
+    "runtime-main.js": "/flippanim-battle-pages/static/js/runtime-main.2b65fea0.js",
+    "runtime-main.js.map": "/flippanim-battle-pages/static/js/runtime-main.2b65fea0.js.map",
+    "static/js/2.d820b908.chunk.js": "/flippanim-battle-pages/static/js/2.d820b908.chunk.js",
+    "static/js/2.d820b908.chunk.js.map": "/flippanim-battle-pages/static/js/2.d820b908.chunk.js.map",
+    "index.html": "/flippanim-battle-pages/index.html",
+    "static/css/main.6d5d4115.chunk.css.map": "/flippanim-battle-pages/static/css/main.6d5d4115.chunk.css.map",
+    "static/js/2.d820b908.chunk.js.LICENSE.txt": "/flippanim-battle-pages/static/js/2.d820b908.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b65fea0.js",
+    "static/js/2.d820b908.chunk.js",
+    "static/css/main.6d5d4115.chunk.css",
+    "static/js/main.937a81ad.chunk.js"
+  ]
+}
